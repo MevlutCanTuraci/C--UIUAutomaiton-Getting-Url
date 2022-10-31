@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\bin\Debug\net6.0\ActiveWindowGettingUrl.exe
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\bin\Debug\net6.0\ActiveWindowGettingUrl.deps.json
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\bin\Debug\net6.0\ActiveWindowGettingUrl.runtimeconfig.json
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\bin\Debug\net6.0\ActiveWindowGettingUrl.dll
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\bin\Debug\net6.0\ActiveWindowGettingUrl.pdb
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\obj\Debug\net6.0\ActiveWindowGettingUrl.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\obj\Debug\net6.0\Interop.UIAutomationClient.dll
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\obj\Debug\net6.0\ActiveWindowGettingUrl.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\obj\Debug\net6.0\ActiveWindowGettingUrl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\obj\Debug\net6.0\ActiveWindowGettingUrl.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\obj\Debug\net6.0\ActiveWindowGettingUrl.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\obj\Debug\net6.0\ActiveWindowGettingUrl.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\obj\Debug\net6.0\ActiveWindowGettingUrl.dll
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\obj\Debug\net6.0\refint\ActiveWindowGettingUrl.dll
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\obj\Debug\net6.0\ActiveWindowGettingUrl.pdb
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\obj\Debug\net6.0\ActiveWindowGettingUrl.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ActiveWindowGettingUrl\ActiveWindowGettingUrl\obj\Debug\net6.0\ref\ActiveWindowGettingUrl.dll
